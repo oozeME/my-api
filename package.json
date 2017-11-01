@@ -1,0 +1,37 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "ejs": "~2.5.6",
+    "express": "~4.15.2",
+    "morgan": "~1.8.1",
+    "serve-favicon": "~2.4.2",
+    "mysql": "latest"
+  },
+  "devDependencies": {
+    "finalhandler": "^1.0.4",
+    "forwarded": "^0.1.0",
+    "ipaddr": "^0.0.9",
+    "ipaddr.js": "^1.5.2",
+    "isarray": "^2.0.2",
+    "methods": "^1.1.2",
+    "moment": "^2.18.1",
+    "mysql": "^2.14.1",
+    "on-headers": "^1.0.1",
+    "path-to-regexp": "^2.0.0",
+    "process-nextick-args": "^1.0.7",
+    "safe-buffer": "^5.1.1",
+    "send": "^0.15.4",
+    "setprototypeof": "^1.0.3",
+    "sqlstring": "^2.2.0",
+    "utils-merge": "^1.0.0",
+    "vary": "^1.1.1"
+  }
+}
